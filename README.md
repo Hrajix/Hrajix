@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hrajix
 - 👀 I’m interested in Fivem Developing
 - 🌱 I’m currently learning LUA, HTML, CSS, CPP
-- 📫 How to reach me? On discord: Hrajix#1337
+- 📫 How to reach me? On discord: Hrajix#4034
 
 <!---
 Hrajix/Hrajix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
