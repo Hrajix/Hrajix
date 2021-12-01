@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrajix
 - 👀 I’m interested in Fivem Developing
-- 🌱 I’m currently learning LUA, HTML, CSS, CPP
+- 🌱 I’m currently learning LUA, C#, CPP
 - 📫 How to reach me? On discord: Hrajix#4034
 
 <!---
